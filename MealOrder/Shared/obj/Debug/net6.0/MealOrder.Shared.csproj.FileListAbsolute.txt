@@ -1,0 +1,12 @@
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\bin\Debug\net6.0\MealOrder.Shared.deps.json
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\bin\Debug\net6.0\MealOrder.Shared.dll
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\bin\Debug\net6.0\MealOrder.Shared.pdb
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.csproj.AssemblyReference.cache
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.dll
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\refint\MealOrder.Shared.dll
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\MealOrder.Shared.pdb
+C:\Users\Muhammed\source\repos\MealOrder\MealOrder\Shared\obj\Debug\net6.0\ref\MealOrder.Shared.dll

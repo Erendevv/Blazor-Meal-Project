@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33711.374
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Server", "MealOrder\Server\MealOrder.Server.csproj", "{1886B9BA-6388-4779-8137-78BC615DC8AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealOrder.Server", "MealOrder\Server\MealOrder.Server.csproj", "{1886B9BA-6388-4779-8137-78BC615DC8AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Client", "MealOrder\Client\MealOrder.Client.csproj", "{B0956F47-C70A-4CAD-86F6-5D74387C3BF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealOrder.Client", "MealOrder\Client\MealOrder.Client.csproj", "{B0956F47-C70A-4CAD-86F6-5D74387C3BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrder.Shared", "MealOrder\Shared\MealOrder.Shared.csproj", "{8371BBD0-5ED2-4073-84D4-0DDDFF605E96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealOrder.Shared", "MealOrder\Shared\MealOrder.Shared.csproj", "{8371BBD0-5ED2-4073-84D4-0DDDFF605E96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
